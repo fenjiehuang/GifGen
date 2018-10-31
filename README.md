@@ -1,4 +1,4 @@
-# GitGen
+# GifGen
 Tool for gen gif and add subtitles 
 
 Base on ffmpeg.exe GPL license
